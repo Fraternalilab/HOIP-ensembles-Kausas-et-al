@@ -14,5 +14,5 @@ The code repository contains experimental data, computational observables, analy
 
 ## Required packages
 
-- For construction of MaxPars ensemble, please install [_bayesaxs_ package](https://github.com/mariuskausas/bayesaxs).
-- For construction of MaxEnt ensemble, please install [BioEn](https://github.com/bio-phys/BioEn)
+- For construction of MaxPars ensemble, please install [_bayesaxs_](https://github.com/mariuskausas/bayesaxs) package.
+- For construction of MaxEnt ensemble, please install [BioEn](https://github.com/bio-phys/BioEn) package.
