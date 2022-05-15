@@ -1,0 +1,2 @@
+- **bayesaxs.py**: a pipeline script for generating a MaxPars ensemble and a variety of output files. 
+- **HOIP_extended_basis_set**: contains structures of the MaxPars ensemble (.zip), summary of state weights (.txt) and PyMOL script to load and visualize selected MaxEnt ensemble members.

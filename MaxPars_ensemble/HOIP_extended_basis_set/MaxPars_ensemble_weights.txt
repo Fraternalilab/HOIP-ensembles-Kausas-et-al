@@ -1,0 +1,8 @@
+Repfit: 182, MP1, Weight: 0.0105955, Rg: 28.05
+Repfit: 184, MP2, Weight: 0.00349829, Rg: 39.37
+Repfit: 86, MP3, Weight: 0.43872833, Rg: 25.24
+Repfit: 149, MP4, Weight: 0.00067259, Rg: 37.82
+Repfit: 227, MP5, Weight: 0.18072769, Rg: 29.43
+Repfit: 281, MP6, Weight: 0.10880706, Rg: 39.98
+Repfit: 44, MP7, Weight: 0.25528143, Rg: 33.76
+Repfit: 143, MP8, Weight: 0.00168912, Rg: 34.07
