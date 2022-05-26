@@ -1,4 +1,4 @@
-- **MD_traj**: contains a model of the extended HOIP RBR domain.
+- **MD_traj**: contains a model of the extended HOIP RBR domain. The simulation trajectory file can be found in the Zenodo repository.
 - **scattering_profiles**: contains theoretical scattering profiles for exended HOIP RBR domain, complete MD trajectory, and MD trajectory sampled conformations that are below and above 30 angstroms. 
 - **MD_collective_variables**: contains radius of gyration values (rgyr.txt), RING1-IBR (d1.txt) and IBR-RING2 (d2.txt) interdomain distances computed for MD trajectory frames.
 - **MD_clusters**: cluster labels (.npy) for the MD trajectory, summary of cluster abundance percentages (.txt), extracted representative cluster members (.zip) and PyMOL script to load and visualize selected MD ensemble members.
