@@ -1,0 +1,4 @@
+- **MD_ensemble_cluster_labels.npy**: a Numpy array containing HDBSCAN cluster labels for each frame of the trajectory. This can be used to extract each cluster into separate .xtc trajectory files.
+- **MD_ensemble_cluster_percentages.txt**: contains percentage information for each observed cluster. Cluster label -1 that denotes noise is not taken into account.
+- **cluster_leaders.zip**: a .zip file containing extracted representative centroids from each cluster trajectory.
+- **visualise_selected_MD_ensemble.pml**: PyMOL script to load and visualse selected MD ensemble representative conformers.
