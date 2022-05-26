@@ -1,2 +1,3 @@
-- **bayesaxs.py**: a pipeline script for generating a MaxPars ensemble and a variety of output files. 
+- **bayesaxs.py**: a pipeline script for generating a MaxPars ensemble and a variety of output files. The input and output files follow the directory structure of the repository.
+- **HOIP_extended_cluster_labels.npy**: a Numpy array containing HDBSCAN cluster labels for each frame of the trajectory. This can be used to extract each cluster into separate .xtc trajectory files. Use the __bayesaxs.py__ pipeline to load cluster labels, save trajectory clusters and extract representative cluster centroids (leaders).
 - **HOIP_extended_basis_set**: contains structures of the MaxPars ensemble (.zip), summary of state weights (.txt) and PyMOL script to load and visualize selected MaxEnt ensemble members.
