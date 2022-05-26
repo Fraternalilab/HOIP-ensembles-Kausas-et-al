@@ -1,0 +1,4 @@
+- **MaxEnt_ensemble_cluster_labels.npy**: a Numpy array containing HDBSCAN cluster labels for each frame of the trajectory containing significant frames. The trajectory itself can be found in the Zenodo link. The .npy can be used to extract each cluster into separate .xtc trajectory files.
+- **MaxEnt_ensemble_weights.txt**: contains percentage information for each observed cluster. Cluster label -1 that denotes noise is not taken into account.
+- **cluster_leaders.zip**: a .zip file containing extracted representative centroids from each cluster trajectory.
+- **visualise_signifcant_clusters.pml**: PyMOL script to load and visualise selected MaxEnt significant conformers.
