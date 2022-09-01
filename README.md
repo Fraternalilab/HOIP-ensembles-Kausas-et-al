@@ -19,6 +19,7 @@ Zenodo [repository](https://zenodo.org/record/6583368) contains the rest of raw 
 - **MD_ensemble/MD_traj**: contains the combined 1 us simulation .xtc trajectory of the extended HOIP RBR domain. 
 - **MaxEnt_ensemble/input.files**: contains _BioEn_ simulation and output files, such as formatted experimental scattering .dat file, BioEn pickle input file with set simulation parameters and formatted simulated scattering data for each trajectory frame of extended HOIP RBR domain. The simulation and output files were generated using _MaxEnt_ensemble/0X_ scripts.
 - **MaxEnt_ensemble/output.files/significant_states**: contains a trajectory .xtc of MaxEnt significant conformers.
+- **MaxEnt_ensemble/combinations**: contains _BioEn_ input and output files for different ensemble combinations of individual simulations.
 
 ## Required packages
 
