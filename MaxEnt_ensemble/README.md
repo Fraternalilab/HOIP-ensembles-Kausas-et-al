@@ -1,4 +1,4 @@
 - **0X_***: a number of consecutive scripts to setup, run and analyse BioEn optimisation to generate MaxEnt ensemble. 
-- **input.files**: _BioEn_ input files can be found downloaded from the Zenodo [repository](https://zenodo.org/record/6583368).
+- **input.files**: _BioEn_ input files can be found downloaded from the Zenodo [repository](https://zenodo.org/record/7041795).
 - **output.files**: contains optimized BioEn weights, scaterring profiles and $\chi^2$/$\theta$/$S_{KL}$ values. In addition, there is a folder _significant\_states_ containg data for significant MaxEnt states. The folder stores cluster labels (.npy) for significant states, summary of states abundance percentages (.txt), extracted representative cluster members (.zip) and PyMOL script to load and visualize selected MaxEnt ensemble members.
-- **combinations**: contains _BioEn_ input and output files for different ensemble combinations of individual simulations that can be found downloaded from the Zenodo [repository](https://zenodo.org/record/6583368).
+- **combinations**: contains _BioEn_ input and output files for different ensemble combinations of individual simulations that can be found downloaded from the Zenodo [repository](https://zenodo.org/record/7041795).
