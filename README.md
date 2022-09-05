@@ -14,7 +14,7 @@ The code repository contains experimental data, computational observables, analy
 
 ## Zenodo repository:
 
-Zenodo [repository](https://zenodo.org/record/6583368) contains the rest of raw simulation and ensemble data. The repository follows same folder structure as the GitHub repository.
+Zenodo [repository](https://zenodo.org/record/7041795) contains the rest of raw simulation and ensemble data. The repository follows same folder structure as the GitHub repository.
 
 - **MD_ensemble/MD_traj**: contains the combined 1 us simulation .xtc trajectory of the extended HOIP RBR domain. 
 - **MaxEnt_ensemble/input.files**: contains _BioEn_ simulation and output files, such as formatted experimental scattering .dat file, BioEn pickle input file with set simulation parameters and formatted simulated scattering data for each trajectory frame of extended HOIP RBR domain. The simulation and output files were generated using _MaxEnt_ensemble/0X_ scripts.
